@@ -27,3 +27,5 @@
 <img src = "https://user-images.githubusercontent.com/102516088/168621867-287342d4-9749-45d5-9786-553bc330dd0f.JPG" width="800" height="500">
 
 
+### 4. Git🛠️
+🤔branch 생성, Commit, merge 수행하여 코드쉐어🤔
