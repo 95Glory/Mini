@@ -1,4 +1,3 @@
-
 # BackEnd Project
 
 ##  User들과 학원의 거리 DataBase 구축
@@ -9,7 +8,7 @@
 ## Team members
 김영광 (GitHub Url : https://github.com/95Glory)  
 이세운 (GitHub Url : https://github.com/SeunLee9)  
-소병권 (GitHub Url : https://github.com/woowsnu)  
+소병권 (GitHub Url : https://github.com/SOBEUNGKEUN)  
 문선화 (GitHub Url : https://github.com/woowsnu)
 
 ##  TechStack
